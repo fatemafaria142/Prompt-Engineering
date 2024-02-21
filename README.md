@@ -21,7 +21,7 @@ Explore various prompt strategies to enhance generative AI model performance.
 2. Few-shot Prompting
 3. Chain-of-Thought (CoT) Prompting
 4. Automatic Chain-of-Thought (CoT) Prompting
-5. Self-Consistency Prompting
+5. Self-Consistency Prompting  [Paper Link](https://arxiv.org/pdf/2203.11171.pdf)
 6. Tree-of-Thoughts Prompting
 7. Graph-of-Thought (GoT) Prompting
 8. Chain-of-Verification (CXoVe)
